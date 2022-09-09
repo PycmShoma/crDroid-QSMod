@@ -15,4 +15,11 @@
 #
 ## Version 1.0
 > Reduced brightness bar
- 
+
+#
+#
+<!--
+![Release](https://img.shields.io/github/downloads/PycmShoma/crDroid-QSMod/latest/total?label=Downloads%20%28Latest%20Release%29&style=social)
+
+![All Releases](https://img.shields.io/github/downloads/PycmShoma/crDroid-QSMod/total?label=Downloads%20%28All%20Releases%29&style=social)
+-->
