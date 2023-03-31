@@ -1,6 +1,6 @@
 # crDroid-QSMod
 
-<img width="147" height="320" src="https://github.com/PycmShoma/crDroid-QSMod/blob/main/assets/qs3.png"><img width="147" height="320" src="https://github.com/PycmShoma/crDroid-QSMod/blob/main/assets/qs4.png">
+<img width="147" height="320" src="/assets/qs3.png"><img width="147" height="320" src="/assets/qs4.png">
 
 #
 #
